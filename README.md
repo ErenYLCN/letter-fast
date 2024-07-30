@@ -1,3 +1,11 @@
+# TODOS
+
+- [ ] Clean-up the code
+- [ ] Create a whiteboard for use cases
+- [ ] Create the text area and paragraph assembler components
+- [ ] Create the text parser for varible passing
+- [ ] Decide on saving the data in a database or state
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
